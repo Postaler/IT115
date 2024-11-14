@@ -1,0 +1,17 @@
+{
+    "name": "Andrei",
+    "age": 21,
+    "city": "Seattle, WA",
+    "interests": [
+        "Traveling",
+        "Hiking",
+        "Sailing",
+        "Surfing",
+        "Videogames",
+        "History",
+        "Camping",
+        "Nature photography",
+        "Muay Thai"
+    ],
+    "is_student": true
+}
